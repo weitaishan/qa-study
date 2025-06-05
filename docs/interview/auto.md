@@ -1,3 +1,5 @@
-# 自动化面试题
+# 面试框架
 
-> An awesome project.
+```xmind preview
+../interview/tool.xmind
+```
